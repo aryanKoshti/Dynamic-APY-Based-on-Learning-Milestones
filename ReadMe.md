@@ -10,6 +10,7 @@ The project gamifies the learning experience by offering users **cryptocurrency 
 
 ## Contract Address
 0x3A2b9C2D2aebaC16102BC75bE7C071301f0aF4c8
+![Screenshot 2024-12-21 143614](https://github.com/user-attachments/assets/5ea26347-c09e-4109-8a15-1e7414b3b5ec)
 
 ## Project Vision
 The goal of this project is to create a **decentralized learning ecosystem** where users are rewarded for their efforts and time spent learning. By incorporating blockchain technology and decentralized finance (DeFi), we aim to build an educational platform that makes learning both enjoyable and financially rewarding.
